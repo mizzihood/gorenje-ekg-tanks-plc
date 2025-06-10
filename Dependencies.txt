@@ -1,0 +1,5 @@
+Used external Library for MODBUS TCP-IP:
+Plasmionique Modbus Master by Plasmionique Inc
+https://github.com/rfporter/Modbus-Master
+vipm://mb_master?repo_url=http://www.jkisoft.com/packages
+
